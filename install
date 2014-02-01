@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Build docker image
-docker build -q=true -t hughfletcher/mysql github.com/hughfletcher/dokku-mysql-dockerfiles
+docker build -q=true -t berkeleymalagon/mysql github.com/berkeleymalagon/dokku-mysql-dockerfiles
